@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://localhost:8013",
+    "env": {
+      "user": "mhdsyarif.ms@gmail.com",
+      "password": "syarif"
+    }
+  }
